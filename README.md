@@ -19,9 +19,6 @@ An aesthetic, intelligent grocery and meal planning app that helps you manage yo
 
 - 🍽️ **Generate Meal Ideas**
   - Click the **"Generate Meal Ideas"** button based on pantry items.
-=======
-An intelligent pantry manager and meal planner built with **FastAPI** (backend) and **Next.js + Tailwind CSS** (frontend).
->>>>>>> 5a036b3 (Add detailed project README)
 
 ---
 
