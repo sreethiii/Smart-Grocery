@@ -1,6 +1,5 @@
 # 🛒 Smart Grocery App
 
-<<<<<<< HEAD
 An aesthetic, intelligent grocery and meal planning app that helps you manage your pantry, track groceries, and generate meal ideas based on available ingredients — all with a fun and interactive UI.
 
 ---
@@ -28,11 +27,7 @@ An intelligent pantry manager and meal planner built with **FastAPI** (backend) 
 
 ## 📁 Project Structure
 
-<<<<<<< HEAD
-```bash
-=======
-```
->>>>>>> 5a036b3 (Add detailed project README)
+
 Smart-Grocery-App/
 │
 ├── backend/              # FastAPI backend (meal ideas, pantry logic)
@@ -57,12 +52,6 @@ Frontend (Next.js)
 cd frontend
 npm install
 npm run dev
-
-Screenshots
-![Screenshot 2025-06-23 184834](https://github.com/user-attachments/assets/ca0accdd-7c72-4b1a-8331-5fa17c295bb2)
-![Screenshot 2025-06-23 184856](https://github.com/user-attachments/assets/be509feb-a54d-47ec-aaec-312bbb583ad3)
-=======
-```
 
 ---
 
