@@ -38,3 +38,17 @@ Smart-Grocery-App/
 │
 ├── .gitignore
 └── README.md             # This file
+
+Backend (FastAPI)
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload
+
+Frontend (Next.js)
+cd frontend
+npm install
+npm run dev
+
+Screenshots
+![Screenshot 2025-06-23 184834](https://github.com/user-attachments/assets/ca0accdd-7c72-4b1a-8331-5fa17c295bb2)
+![Screenshot 2025-06-23 184856](https://github.com/user-attachments/assets/be509feb-a54d-47ec-aaec-312bbb583ad3)
