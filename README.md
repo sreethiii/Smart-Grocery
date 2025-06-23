@@ -1,5 +1,6 @@
 # 🛒 Smart Grocery App
 
+<<<<<<< HEAD
 An aesthetic, intelligent grocery and meal planning app that helps you manage your pantry, track groceries, and generate meal ideas based on available ingredients — all with a fun and interactive UI.
 
 ---
@@ -19,12 +20,19 @@ An aesthetic, intelligent grocery and meal planning app that helps you manage yo
 
 - 🍽️ **Generate Meal Ideas**
   - Click the **"Generate Meal Ideas"** button based on pantry items.
+=======
+An intelligent pantry manager and meal planner built with **FastAPI** (backend) and **Next.js + Tailwind CSS** (frontend).
+>>>>>>> 5a036b3 (Add detailed project README)
 
 ---
 
 ## 📁 Project Structure
 
+<<<<<<< HEAD
 ```bash
+=======
+```
+>>>>>>> 5a036b3 (Add detailed project README)
 Smart-Grocery-App/
 │
 ├── backend/              # FastAPI backend (meal ideas, pantry logic)
@@ -38,6 +46,7 @@ Smart-Grocery-App/
 │
 ├── .gitignore
 └── README.md             # This file
+<<<<<<< HEAD
 
 Backend (FastAPI)
 cd backend
@@ -52,3 +61,52 @@ npm run dev
 Screenshots
 ![Screenshot 2025-06-23 184834](https://github.com/user-attachments/assets/ca0accdd-7c72-4b1a-8331-5fa17c295bb2)
 ![Screenshot 2025-06-23 184856](https://github.com/user-attachments/assets/be509feb-a54d-47ec-aaec-312bbb583ad3)
+=======
+```
+
+---
+
+## ⚙️ Backend (FastAPI)
+
+```bash
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
+
+---
+
+## 🎨 Frontend (Next.js + Tailwind CSS)
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Page with Floating Veggies
+![Login Screenshot](https://github.com/user-attachments/assets/ca0accdd-7c72-4b1a-8331-5fa17c295bb2)
+
+### 🧾 Dashboard with Categorized Inputs
+![Dashboard Screenshot](https://github.com/user-attachments/assets/be509feb-a54d-47ec-aaec-312bbb583ad3)
+
+---
+
+## ✨ Features
+
+- 🥬 Animated login screen with veggie bubbles
+- 🧠 AI-powered meal idea generator
+- 📝 Category-based input (veggies, fruits, spices, etc.)
+- 📦 Quantity tracking and checkbox progress
+- 🔐 Enter-key navigation and auto-submit
+
+---
+
+## 📜 License
+
+MIT © [sreethiii](https://github.com/sreethiii)
+>>>>>>> 5a036b3 (Add detailed project README)
