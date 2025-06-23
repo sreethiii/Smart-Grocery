@@ -28,6 +28,7 @@ An intelligent pantry manager and meal planner built with **FastAPI** (backend) 
 ## 📁 Project Structure
 
 
+```bash
 Smart-Grocery-App/
 │
 ├── backend/              # FastAPI backend (meal ideas, pantry logic)
@@ -41,19 +42,8 @@ Smart-Grocery-App/
 │
 ├── .gitignore
 └── README.md             # This file
-<<<<<<< HEAD
+```
 
-Backend (FastAPI)
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-
-Frontend (Next.js)
-cd frontend
-npm install
-npm run dev
-
----
 
 ## ⚙️ Backend (FastAPI)
 
@@ -95,7 +85,3 @@ npm run dev
 
 ---
 
-## 📜 License
-
-MIT © [sreethiii](https://github.com/sreethiii)
->>>>>>> 5a036b3 (Add detailed project README)
